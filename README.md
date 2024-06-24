@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @i0101001010i
-- 👀 I’m interested in travelling
+- 👀 I’m interested in travelling to everywhere, especially Nha Trang
 - 🌱 I’m currently learning to be a Backend Developer, hihi
 - 💞️ Nhớ ai đó =))))))
 - 📫 Contact via email: trinhnghia270903@gmail.com

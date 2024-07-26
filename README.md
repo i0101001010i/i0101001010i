@@ -3,6 +3,8 @@
 <p>Tompayä kato, tsawkeyä kato,</p>
 <p>Sì’ekong te’lanä oeru teya si.</p>
 
+<a href="https://www.youtube.com/playlist?list=PLPlQAx0dMtXyA0017Hd3JMhE1bWVTyPbE">Listen</a> to some music with me
+
 <!---
 i0101001010i/i0101001010i is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

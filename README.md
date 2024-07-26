@@ -1,4 +1,7 @@
-🌱
+<p>Za’u oe fru iknimaya</p>
+<p>Nìftxavang ting mikyun, ting nari</p>
+<p>Tompayä kato, tsawkeyä kato</p>
+<p>Sì’ekong te’lanä oeru teya si</p>
 
 <!---
 i0101001010i/i0101001010i is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
